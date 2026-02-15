@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:retrotech71.co.uk)",
+      "Bash(curl:*)",
+      "Bash(python:*)",
+      "Bash(npm run build:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm install:*)",
+      "Bash(node -e \"\nimport\\(''puppeteer''\\).then\\(async \\(p\\) => {\n  const browser = await p.default.launch\\({ headless: true, defaultViewport: { width: 1440, height: 900 } }\\);\n  const page = await browser.newPage\\(\\);\n  await page.goto\\(''http://localhost:3000/projects/nd-120-in-fpga/'', { waitUntil: ''networkidle0'', timeout: 15000 }\\);\n  await page.screenshot\\({ path: ''check-nd120.png'', fullPage: false }\\);\n  await browser.close\\(\\);\n  console.log\\(''Done''\\);\n}\\);\n\")"
+    ]
+  }
+}
