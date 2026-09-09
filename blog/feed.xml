@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RetroCore Labs Blog</title>
+    <link>https://retrocorelabs.github.io/blog/</link>
+    <description>Notes from RetroCore Labs: emulation, FPGA work, reverse engineering and Norsk Data history.</description>
+    <language>en</language>
+    <item>
+      <title>Welcome to RetroCore Labs</title>
+      <link>https://retrocorelabs.github.io/blog/welcome-to-retrocore-labs/</link>
+      <guid>https://retrocorelabs.github.io/blog/welcome-to-retrocore-labs/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <description>What this site is for, what the projects have in common, and where to follow along.</description>
+      <category>retrocore</category><category>norsk-data</category><category>intro</category>
+    </item>
+  </channel>
+</rss>
