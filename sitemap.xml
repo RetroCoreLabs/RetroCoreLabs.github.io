@@ -32,6 +32,12 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://retrocorelabs.github.io/projects/norskdata-software-archive/</loc>
+<lastmod>2026-09-11</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://retrocorelabs.github.io/blog/welcome-to-retrocore-labs/</loc>
 <lastmod>2026-09-09</lastmod>
 <changefreq>yearly</changefreq>
